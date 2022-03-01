@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Other Bank Transfer - Add Beneficiary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1d6ecf2f-ebc3-4741-bd30-89c4ac2d87b7</testCaseGuid>
+   <variable>
+      <defaultValue>'Rockey\t'</defaultValue>
+      <description></description>
+      <id>259cd83c-768f-4464-a451-c7a672ba137b</id>
+      <masked>false</masked>
+      <name>Nickname</name>
+   </variable>
+   <variable>
+      <defaultValue>'24134154101'</defaultValue>
+      <description></description>
+      <id>fff98f1f-7c15-441e-9181-af1450199da8</id>
+      <masked>false</masked>
+      <name>AccNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'MD. Moniruzzaman'</defaultValue>
+      <description></description>
+      <id>91946759-e0ed-420f-acc9-dd2d5dcf2d65</id>
+      <masked>false</masked>
+      <name>AccName</name>
+   </variable>
+   <variable>
+      <defaultValue>'BDT'</defaultValue>
+      <description></description>
+      <id>7009fcbf-1467-4211-8633-d0813a2570b0</id>
+      <masked>false</masked>
+      <name>Currency_type</name>
+   </variable>
+   <variable>
+      <defaultValue>'SAVING BANK A/C'</defaultValue>
+      <description></description>
+      <id>81b43860-26d6-435c-8f49-8bd11b7b88e4</id>
+      <masked>false</masked>
+      <name>AccType</name>
+   </variable>
+   <variable>
+      <defaultValue>'01745677520'</defaultValue>
+      <description></description>
+      <id>583ddacd-8a04-4f9c-aae3-00ef38ac2627</id>
+      <masked>false</masked>
+      <name>MobileNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'sani_jahan@bs-23.net'</defaultValue>
+      <description></description>
+      <id>2ba20221-17cf-4da2-9390-c8311bc74f1a</id>
+      <masked>false</masked>
+      <name>EmailId</name>
+   </variable>
+</TestCaseEntity>

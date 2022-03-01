@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>After Transfer Fund Check Success Screen And Validation Element</description>
+   <name>TC03_OtherBankAccFundTransfer_SuccessScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d605dbc-aa16-4536-a3d2-7e2b339b4e19</testCaseGuid>
+</TestCaseEntity>

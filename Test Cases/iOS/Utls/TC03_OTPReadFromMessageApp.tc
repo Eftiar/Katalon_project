@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Read OTP Code by switching message application</description>
+   <name>TC03_OTPReadFromMessageApp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0456aa0-eaf5-4971-bd84-499c55da85ee</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigates to the &quot;Fixed Deposit&quot;  From Account Service Screen</description>
+   <name>TC00_Navigate_Fixed_Deposit_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>9519b519-fba4-4cf5-b3d0-a96f1e51a017</testCaseGuid>
+</TestCaseEntity>

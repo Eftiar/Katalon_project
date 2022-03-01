@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC06_NavigateTo_PaymentBenificiery_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ece77cfe-ab04-484f-9568-f0fdc26ded86</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigates to the &quot;Transfers&quot; screen.</description>
+   <name>TC01_Navigate_Transfer_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ddfe03f9-aa3e-4a57-b4d1-3d3048a01193</testCaseGuid>
+</TestCaseEntity>

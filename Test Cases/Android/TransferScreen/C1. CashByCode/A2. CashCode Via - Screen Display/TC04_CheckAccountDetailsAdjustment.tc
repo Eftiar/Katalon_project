@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>After Transfer fund check all account details adjustment</description>
+   <name>TC04_CheckAccountDetailsAdjustment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5f7bc7e1-6dee-4fc6-a378-65880a23d8db</testCaseGuid>
+</TestCaseEntity>

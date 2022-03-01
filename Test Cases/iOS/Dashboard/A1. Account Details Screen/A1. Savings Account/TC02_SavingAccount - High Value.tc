@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check Details page show for Savings account</description>
+   <name>TC02_SavingAccount - High Value</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>dcdce45b-3b02-4aa1-a8a0-c723940542cd</testCaseGuid>
+   <variable>
+      <defaultValue>'HIGH VALUE SAVINGS A/C'</defaultValue>
+      <description></description>
+      <id>9cb5394a-0a1a-4969-9990-0c30d10ea7c0</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+   <variable>
+      <defaultValue>'5,001.04'</defaultValue>
+      <description></description>
+      <id>43f90dc0-7c41-4b25-bb32-289eab4ed549</id>
+      <masked>false</masked>
+      <name>availableBalance</name>
+   </variable>
+   <variable>
+      <defaultValue>'Recent Transactions'</defaultValue>
+      <description></description>
+      <id>3e78d650-ec2a-49f8-bcff-418eb9d75430</id>
+      <masked>false</masked>
+      <name>title_</name>
+   </variable>
+</TestCaseEntity>

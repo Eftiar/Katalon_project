@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Other Bank Transfer - Delete Beneficiary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e1bc84c-e124-4c3e-9480-85b6c834b838</testCaseGuid>
+</TestCaseEntity>

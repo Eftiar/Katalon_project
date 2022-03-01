@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_FirstLoginNavigation</name>
+   <tag></tag>
+   <comment>First Time Login Navigation Flow with Mobile OTP And valid username and password
+User accept terms &amp; Condition
+User select OTP method and continue</comment>
+   <testCaseGuid>9762e1ea-8db1-4a80-b9e1-143759cc48ae</testCaseGuid>
+</TestCaseEntity>

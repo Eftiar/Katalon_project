@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Transfer Amount With CODE</description>
+   <name>TC01_EmailTransfer</name>
+   <tag>FT</tag>
+   <comment></comment>
+   <testCaseGuid>d6bf7144-dd91-4eba-9a9f-d48dc2dc685d</testCaseGuid>
+   <variable>
+      <defaultValue>'Your Birth Palace'</defaultValue>
+      <description></description>
+      <id>dc68b71c-7bf1-4cec-a9b7-7bcd604288d4</id>
+      <masked>false</masked>
+      <name>SecurityQ</name>
+   </variable>
+   <variable>
+      <defaultValue>'Rajshahi'</defaultValue>
+      <description></description>
+      <id>7d8e067f-d521-4555-a2fe-d7c2abc5805c</id>
+      <masked>false</masked>
+      <name>SecurityA</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Own Account fund transfer OTP Transfer Screen Functionality Check</description>
+   <name>TC02_PayOrder_OTP_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e01b6252-eec7-4be6-90a6-fba7e4353222</testCaseGuid>
+   <variable>
+      <defaultValue>'You have chosen to make the following transaction. Please click Submit to proceed.'</defaultValue>
+      <description></description>
+      <id>3b431ff4-ec17-4e58-a6c3-a79a2cceaafb</id>
+      <masked>false</masked>
+      <name>WarningMsg</name>
+   </variable>
+   <variable>
+      <defaultValue>'2182520387001'</defaultValue>
+      <description></description>
+      <id>0f6df541-93cf-46f0-9d87-5c4ecd87be00</id>
+      <masked>false</masked>
+      <name>AccNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'BRANCH'</defaultValue>
+      <description></description>
+      <id>10c9bb05-75b6-4cc6-8a60-6a43d310cac7</id>
+      <masked>false</masked>
+      <name>DeliveryLocation</name>
+   </variable>
+   <variable>
+      <defaultValue>'AMBARKHANA'</defaultValue>
+      <description></description>
+      <id>54fbfbca-3bbd-48c4-aa58-3278000a2a55</id>
+      <masked>false</masked>
+      <name>PayOrderCollectionBranch</name>
+   </variable>
+   <variable>
+      <defaultValue>'BORHAN'</defaultValue>
+      <description></description>
+      <id>6fbe755f-7437-4b68-af49-fd959f2c7bc2</id>
+      <masked>false</masked>
+      <name>BeneficiaryName</name>
+   </variable>
+   <variable>
+      <defaultValue>'100.00'</defaultValue>
+      <description></description>
+      <id>6030c74b-f920-485c-b571-370183ca9dd1</id>
+      <masked>false</masked>
+      <name>ServiceCharge</name>
+   </variable>
+   <variable>
+      <defaultValue>'15.00'</defaultValue>
+      <description></description>
+      <id>4e0d2134-5b69-4d3c-9bd4-f6c45564d275</id>
+      <masked>false</masked>
+      <name>VAT</name>
+   </variable>
+</TestCaseEntity>

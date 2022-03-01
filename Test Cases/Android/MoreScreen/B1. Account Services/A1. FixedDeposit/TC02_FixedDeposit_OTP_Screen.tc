@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Own Account fund transfer OTP Transfer Screen Functionality Check</description>
+   <name>TC02_FixedDeposit_OTP_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4a4f6b71-801e-4459-b8bb-1d2d9eb74853</testCaseGuid>
+   <variable>
+      <defaultValue>'2182520387001'</defaultValue>
+      <description></description>
+      <id>7d039800-7243-4728-9620-847c3fad66cc</id>
+      <masked>false</masked>
+      <name>AccNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'MD. MAZADUL ISLAM'</defaultValue>
+      <description></description>
+      <id>1d1eb4b5-cecf-4027-8fa1-d3e0c6b4fb13</id>
+      <masked>false</masked>
+      <name>AccTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Fixed Deposit-General'</defaultValue>
+      <description></description>
+      <id>a54444f8-3798-49a1-8d93-8152907f414e</id>
+      <masked>false</masked>
+      <name>TypeOfAccount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Month(s)'</defaultValue>
+      <description></description>
+      <id>0f736906-8e6f-45df-8e58-b2764e71ff5b</id>
+      <masked>false</masked>
+      <name>TenureType</name>
+   </variable>
+   <variable>
+      <defaultValue>'12'</defaultValue>
+      <description></description>
+      <id>c84d27bb-1ef2-495b-9638-01dd83d96ea5</id>
+      <masked>false</masked>
+      <name>TenurePeriod</name>
+   </variable>
+   <variable>
+      <defaultValue>'No'</defaultValue>
+      <description></description>
+      <id>47e04491-68fc-4dfb-8bb2-26f80a32838d</id>
+      <masked>false</masked>
+      <name>AutoRenewalType</name>
+   </variable>
+   <variable>
+      <defaultValue>'2182520387001'</defaultValue>
+      <description></description>
+      <id>23790c88-9ad2-47e3-86f5-50d1ae0cd8a9</id>
+      <masked>false</masked>
+      <name>RepaymentAccount</name>
+   </variable>
+   <variable>
+      <defaultValue>'6.00'</defaultValue>
+      <description></description>
+      <id>cd4e23e5-7f73-4902-88bc-9b8d5283fdc4</id>
+      <masked>false</masked>
+      <name>InterestRate</name>
+   </variable>
+   <variable>
+      <defaultValue>'AMBARKHANA'</defaultValue>
+      <description></description>
+      <id>0675050c-15f6-486a-8393-48e05402f11e</id>
+      <masked>false</masked>
+      <name>DepositCollectionBranch</name>
+   </variable>
+</TestCaseEntity>

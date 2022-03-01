@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Email Transfer - Add Beneficiary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fc6373ba-fe79-408c-b217-29148f376545</testCaseGuid>
+   <variable>
+      <defaultValue>'Borhan QA'</defaultValue>
+      <description></description>
+      <id>4dddd616-f2c0-48c0-a16f-d95fec931d1e</id>
+      <masked>false</masked>
+      <name>Nickname</name>
+   </variable>
+   <variable>
+      <defaultValue>'01745677520'</defaultValue>
+      <description></description>
+      <id>fae9fe55-a7c5-4783-9b07-86a1e3da1e9e</id>
+      <masked>false</masked>
+      <name>MobileNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'borhan7420@gmail.com'</defaultValue>
+      <description></description>
+      <id>df31ad65-83a6-446b-892e-073148784a32</id>
+      <masked>false</masked>
+      <name>EmailId</name>
+   </variable>
+</TestCaseEntity>

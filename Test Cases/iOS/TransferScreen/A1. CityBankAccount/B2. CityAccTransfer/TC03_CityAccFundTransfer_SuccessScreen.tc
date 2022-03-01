@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>After Transfer Fund Check Success Screen And Validation Element</description>
+   <name>TC03_CityAccFundTransfer_SuccessScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6265387b-65ae-4350-8190-cd769a6a074e</testCaseGuid>
+</TestCaseEntity>

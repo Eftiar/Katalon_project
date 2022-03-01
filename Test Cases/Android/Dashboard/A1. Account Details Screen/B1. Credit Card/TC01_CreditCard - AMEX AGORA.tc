@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Credit Card Details Transaction Loading</description>
+   <name>TC01_CreditCard - AMEX AGORA</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5f93c7d-c34d-4699-87f8-8389050f04ab</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bf7fb679-45a3-4c36-918e-c55d08a2d328</id>
+      <masked>false</masked>
+      <name>cardNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'130000'</defaultValue>
+      <description></description>
+      <id>f7b9f2b5-a527-4456-bcfe-97538ff805d0</id>
+      <masked>false</masked>
+      <name>totalCreditLine</name>
+   </variable>
+   <variable>
+      <defaultValue>'159102.46'</defaultValue>
+      <description></description>
+      <id>a090ce24-d75c-412b-b7d2-137287e0ce3d</id>
+      <masked>false</masked>
+      <name>creditAvailable</name>
+   </variable>
+   <variable>
+      <defaultValue>'-29102.46'</defaultValue>
+      <description></description>
+      <id>ccedcec7-8357-4a59-81e1-77ef30697e4b</id>
+      <masked>false</masked>
+      <name>outstandingBalance</name>
+   </variable>
+   <variable>
+      <defaultValue>'8770'</defaultValue>
+      <description></description>
+      <id>87ffa762-a7e4-41c0-9696-135c90d52a7e</id>
+      <masked>false</masked>
+      <name>rewardPoints</name>
+   </variable>
+</TestCaseEntity>

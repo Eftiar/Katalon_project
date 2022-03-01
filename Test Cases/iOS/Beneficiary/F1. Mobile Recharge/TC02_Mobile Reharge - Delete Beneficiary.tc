@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>bKash Transfer - Delete Ben.</description>
+   <name>TC02_Mobile Reharge - Delete Beneficiary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1e37937-31c0-46d3-b35c-fd4d87315a8e</testCaseGuid>
+</TestCaseEntity>

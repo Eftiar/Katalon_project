@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>sani</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description>Path of the debug apk.</description>
+      <initValue>'C:\\Users\\BS097\\Downloads\\Office\\City_Touch\\app-uat-universal-debug.apk'</initValue>
+      <name>appPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User ID for Login.</description>
+      <initValue>'shajahan01'</initValue>
+      <name>Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Valid password for login.</description>
+      <initValue>'123456Ss'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>' BICHITRA KUMAR MONDAL'</initValue>
+      <name>AccName</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

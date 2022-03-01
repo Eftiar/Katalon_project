@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User Tap City bank account from transfer screen</description>
+   <name>TC01_Navigate_CreditCardPayment</name>
+   <tag>ft</tag>
+   <comment></comment>
+   <testCaseGuid>4917bd47-5d1b-4958-9062-3ab1b93eccfa</testCaseGuid>
+</TestCaseEntity>

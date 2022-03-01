@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_ChequeLeafStatus</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>38d2d5dd-ace9-490d-8aa0-50cdcaff7139</testCaseGuid>
+   <variable>
+      <defaultValue>'MD. MAZADUL ISLAM'</defaultValue>
+      <description></description>
+      <id>c5b14d57-0f6b-4c27-b061-c396bba500a8</id>
+      <masked>false</masked>
+      <name>beneficiaryName</name>
+   </variable>
+</TestCaseEntity>

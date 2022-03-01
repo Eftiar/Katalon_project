@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Within City Bank Transfer</description>
+   <name>TC01_AddBeneficiary_TypeOfTransfer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f7c7ea41-8f3f-4b7d-8fad-4e5149b57f95</testCaseGuid>
+</TestCaseEntity>

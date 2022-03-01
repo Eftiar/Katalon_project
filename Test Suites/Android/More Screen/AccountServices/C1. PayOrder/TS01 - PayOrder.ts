@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Transfer Between City Bank Accounts</description>
+   <name>TS01 - PayOrder</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>baef45ba-ac37-46eb-b4dc-424ed1b990b1</testSuiteGuid>
+   <testCaseLink>
+      <guid>fa06d8c9-3510-4aec-8118-ad958debfbb9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/AccountsScreen/TC02_AccountDetailsStore</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6bdf9390-9309-46af-9f6f-615ca2d5e227</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/MoreScreen/TC01_Navigate_More_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b2acc80d-0f8b-4662-9ab3-96b617d5f648</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/MoreScreen/B1. Account Services/TC01_Navigate_Account_Services_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d08b4e64-1861-4d5a-85a4-e7f3b61c7a5c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/MoreScreen/B1. Account Services/C1. PayOrder/TC00_Navigate_PayOrder_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>911ffa20-e65e-4c2f-8b9a-ec56061d6abb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/MoreScreen/B1. Account Services/C1. PayOrder/TC01_PayOrder</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>572c0c29-2a1c-43b1-8580-dacd0d7624f6</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6b0d8dee-b33e-4a10-a9f9-7deede3b9a16</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/MoreScreen/B1. Account Services/C1. PayOrder/TC02_PayOrder_OTP_Screen</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>510f0ddb-dbbd-4160-a5e1-5a72cd13bdb3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>00c4c9d5-2e08-46a2-9e62-beb71a2e35ed</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5841da6a-d882-458d-ab75-783b0c8181bc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4eaaae2a-f2ed-457b-bd64-606cd38f0010</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2bfcab6c-5bd7-41f8-8846-038ec6a15c4c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a09e7afd-c85e-4168-b9e6-64b8bb2b6d4b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a33e62ff-4085-4c81-b8ac-6cd7b4aaf480</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4bed43a5-38a8-41d6-b12b-e6f1fe74ea63</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/MoreScreen/B1. Account Services/C1. PayOrder/TC03_RequestSuccessScreen</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d7d78914-d83f-47b2-8489-efc950d8f602</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>27608300-0bb4-402d-aa70-f88812c22051</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/MoreScreen/B1. Account Services/C1. PayOrder/TC04_CheckAccountDetailsAdjustment</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f27501b2-5d75-4743-9aee-37aa86015ae0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dd9eef81-7053-463e-b2b2-c6c066a00228</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS01_AddBeneficiary</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>cabc527b-a82e-4302-ba5d-c6f97ef69ef2</testSuiteGuid>
+   <testCaseLink>
+      <guid>bf81e7cf-e2d6-43fd-a343-f5765f303477</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/iOS/LoginScreen/TC02_LoginWIthPIN</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a5e977cb-ff7d-406e-9f3b-ae30e51b5a5c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/iOS/TransferScreen/TC01_Navigate_Transfer_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>78a86698-2f30-4492-b553-72d3e2b10a83</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/iOS/Beneficiary/TC03_NavigateTo_Beneficiary_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e28403a7-7354-41cd-8ac2-ea307f522d7e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/iOS/Beneficiary/TC04_NavigateTo_AddBeneficiary_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c3bbd52a-14fc-4858-8789-7c05be5c67c4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/iOS/Beneficiary/B1. City Bank Account Transfer/TC01_City Bank Transfer - Add Beneficiary</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>14a81cfe-42f5-4eb9-a425-4b7b289defb3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d84e3167-22bd-495d-8975-495968cd5e56</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7e7e82d4-4577-41cb-8a4a-03ebc4f86327</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b2b9d566-b180-4d94-b648-41e5189fb526</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>dd926b53-9650-4cf2-b789-72e009d9d87b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>690e85b4-cc21-4934-a0d5-b87428540408</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e3af2b1e-fc0e-4da1-8722-d8055c0c8941</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3bec6677-0f7e-4281-b7e3-758bc4c9fe5b</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/iOS/Beneficiary/TC01_CityTouch Security Verification</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c3914d7d-2c9f-40dd-82af-234212402cb0</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

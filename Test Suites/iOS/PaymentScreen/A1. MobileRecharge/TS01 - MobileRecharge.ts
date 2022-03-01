@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description>Transfer Between City Bank Accounts</description>
+   <name>TS01 - MobileRecharge</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>2f6a5979-27c7-4c67-95d2-1a5e09cd1443</testSuiteGuid>
+   <testCaseLink>
+      <guid>fa06d8c9-3510-4aec-8118-ad958debfbb9</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/AccountsScreen/TC02_AccountDetailsStore</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6bdf9390-9309-46af-9f6f-615ca2d5e227</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/PaymentScreen/TC01_Navigate_Payment_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>c84d4cc8-43bd-40e8-b5ee-31a742b55566</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/PaymentScreen/A1. MobileRecharge/TC01_MobileRecharge</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>105575a8-2e78-4d29-ad6e-6e5a4d517b83</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7459bcd0-8af1-4383-bea5-3b5a33d0889a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a28b96e3-02de-47bb-a87d-f8ef5eda96a2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>60e34c59-e8a0-46a3-a681-33afc752c0af</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>72e912cf-8fc6-41cd-aa22-ffb02b1aad12</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0eef5f17-2ee3-41e3-8765-584e3129e5a1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5120a326-a0e3-415c-be7b-58189b9bd433</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>02109b4a-02ec-415a-ae7f-cce932ad2c13</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4bed43a5-38a8-41d6-b12b-e6f1fe74ea63</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/PaymentScreen/A1. MobileRecharge/TC02_MobileRecharge_OTP_Screen</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b55721e3-364f-4b38-b369-95dd49ad7ed0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f419fe2d-efd2-4ea7-9214-4f229243705e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>d07e2115-3cfe-4f82-87e8-781afd4e3e99</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6ddf35a7-5666-4ff2-bfe2-cdfbac89421c</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>870d87e5-63d5-4b22-a915-79b0014ed32c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/PaymentScreen/A1. MobileRecharge/TC03_MobileRecharge_MobileReceipnt</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6cbec292-2651-41e5-b518-384d2c470cc5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/PaymentScreen/A1. MobileRecharge/TC04_CheckAccountDetailsAdjustment</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1ef4dd69-0d63-477b-b531-8a2c6f2ff140</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/PaymentScreen/TC01_Navigate_Payment_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4189c292-67ed-4059-b789-276f3b3e65e3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/Beneficiary/TC03_NavigateTo_Beneficiary_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>bff591c3-a210-4013-ad7e-79f181dac425</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/Beneficiary/F1. Mobile Recharge/TC02_Mobile Reharge - Delete Beneficiary</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>

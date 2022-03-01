@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_City Bank Transfer - Delete Beneficiary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cdea845c-736a-44d2-bed6-d17770244fae</testCaseGuid>
+</TestCaseEntity>

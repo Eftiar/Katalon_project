@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>bKash Transfer - Delete Ben.</description>
+   <name>TC02_bKash Transfer - Delete Beneficiary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bf6bbf0c-5df1-4b95-9a27-0a43ed447ae6</testCaseGuid>
+</TestCaseEntity>

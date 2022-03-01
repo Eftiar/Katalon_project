@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>After Transfer Fund Check Success Screen And Validation Element</description>
+   <name>TC03_MobileRecharge_MobileReceipnt</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f0ff5ee9-316a-48fe-92fb-8a75ecda9d49</testCaseGuid>
+</TestCaseEntity>

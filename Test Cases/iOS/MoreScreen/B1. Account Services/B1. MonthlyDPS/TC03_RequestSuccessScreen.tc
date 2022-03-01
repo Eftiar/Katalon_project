@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_RequestSuccessScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>81bc6b0d-cf34-4869-b2a4-ccd383aa33e1</testCaseGuid>
+   <variable>
+      <defaultValue>'We received your request to open a DPS account. Confirmation will be sent to your registered email address within next working day. Call 16234'</defaultValue>
+      <description></description>
+      <id>e5d1f420-c5b0-4c79-b205-650fdcbb3776</id>
+      <masked>false</masked>
+      <name>ExpectedMsg</name>
+   </variable>
+</TestCaseEntity>

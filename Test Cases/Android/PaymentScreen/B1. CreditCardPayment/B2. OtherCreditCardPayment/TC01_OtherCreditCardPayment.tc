@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Payment : Other Credit Card Payment</description>
+   <name>TC01_OtherCreditCardPayment</name>
+   <tag>FT</tag>
+   <comment></comment>
+   <testCaseGuid>d40719c7-bc83-4565-965e-c77ddf1962b6</testCaseGuid>
+   <variable>
+      <defaultValue>'Borhan'</defaultValue>
+      <description></description>
+      <id>88cf050a-39c7-40d2-a66b-9e0aea903a33</id>
+      <masked>false</masked>
+      <name>Nickname</name>
+   </variable>
+   <variable>
+      <defaultValue>'2182603667001'</defaultValue>
+      <description></description>
+      <id>9b528ac1-a76c-46be-ae55-53ccbcb65648</id>
+      <masked>false</masked>
+      <name>AccNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'MD. BORHAN UDDIN SARKER'</defaultValue>
+      <description></description>
+      <id>351f8636-7a79-4485-a42a-832b2eea698b</id>
+      <masked>false</masked>
+      <name>AccHolderName</name>
+   </variable>
+   <variable>
+      <defaultValue>'BDT'</defaultValue>
+      <description></description>
+      <id>0ef87d24-9fab-4395-b4dd-1ad9d1f6b1b2</id>
+      <masked>false</masked>
+      <name>Currency_Type</name>
+   </variable>
+   <variable>
+      <defaultValue>'SAVING BANK A/C'</defaultValue>
+      <description></description>
+      <id>bd4a5691-c6c2-4b51-b5fc-1be23c15b332</id>
+      <masked>false</masked>
+      <name>AccType</name>
+   </variable>
+   <variable>
+      <defaultValue>'01745677420'</defaultValue>
+      <description></description>
+      <id>355a73ce-3945-4df3-872d-cd832415598f</id>
+      <masked>false</masked>
+      <name>MobileNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'borhan@bs-23.net'</defaultValue>
+      <description></description>
+      <id>4b317a0d-9144-443a-baf9-cbede418b62c</id>
+      <masked>false</masked>
+      <name>EmailId</name>
+   </variable>
+   <variable>
+      <defaultValue>'1234'</defaultValue>
+      <description></description>
+      <id>9d7fd507-4860-4517-a4b5-c635d98a0e9e</id>
+      <masked>false</masked>
+      <name>PIN</name>
+   </variable>
+</TestCaseEntity>

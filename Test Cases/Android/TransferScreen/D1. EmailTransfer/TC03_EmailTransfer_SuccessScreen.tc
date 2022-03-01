@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>After Transfer Fund Check Success Screen And Validation Element</description>
+   <name>TC03_EmailTransfer_SuccessScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ff991215-a8ba-433c-b68a-f0d8fcc9199b</testCaseGuid>
+   <variable>
+      <defaultValue>'Your Email Transfer has been accepted. Please keep this reference number for your record.'</defaultValue>
+      <description></description>
+      <id>74c19498-3305-4af6-8c81-4c521a44f9c8</id>
+      <masked>false</masked>
+      <name>EXmsg</name>
+   </variable>
+</TestCaseEntity>

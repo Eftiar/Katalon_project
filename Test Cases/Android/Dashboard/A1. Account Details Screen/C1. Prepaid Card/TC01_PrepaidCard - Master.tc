@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Credit Card Details Transaction Loading</description>
+   <name>TC01_PrepaidCard - Master</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bda6cd58-66f8-4600-b416-5db9a8fc7bdb</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c32553fa-4f9f-4afc-8d2f-2a3ce202f003</id>
+      <masked>false</masked>
+      <name>cardNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'130000'</defaultValue>
+      <description></description>
+      <id>a40b1831-8b10-4de5-91ea-a0c6947e6374</id>
+      <masked>false</masked>
+      <name>totalCreditLine</name>
+   </variable>
+   <variable>
+      <defaultValue>'159102.46'</defaultValue>
+      <description></description>
+      <id>46fad231-503a-412d-8f2a-35406fcc6d85</id>
+      <masked>false</masked>
+      <name>creditAvailable</name>
+   </variable>
+   <variable>
+      <defaultValue>'-29102.46'</defaultValue>
+      <description></description>
+      <id>0f0c8e5d-6417-4516-a64e-5e26737ebf01</id>
+      <masked>false</masked>
+      <name>outstandingBalance</name>
+   </variable>
+   <variable>
+      <defaultValue>'8770'</defaultValue>
+      <description></description>
+      <id>3c2e465a-25a1-4a60-ac6a-f80e1d714466</id>
+      <masked>false</masked>
+      <name>rewardPoints</name>
+   </variable>
+</TestCaseEntity>

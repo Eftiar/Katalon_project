@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_RequestSuccessScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>3cc402ec-b166-4e2f-9bbb-ed8baf4c5af3</testCaseGuid>
+   <variable>
+      <defaultValue>'Your positive pay request for the cheque number  has been submitted successfully. An email has been send to your register email address.'</defaultValue>
+      <description></description>
+      <id>46dad8ce-f874-4bf6-b9e1-de1d1042c292</id>
+      <masked>false</masked>
+      <name>ExpectedMsg</name>
+   </variable>
+</TestCaseEntity>

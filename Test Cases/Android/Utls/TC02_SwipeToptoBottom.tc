@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Screen Refreash To Update Data</description>
+   <name>TC02_SwipeToptoBottom</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>20c2dec1-db45-4aa9-a63d-fd89d10091f7</testCaseGuid>
+</TestCaseEntity>

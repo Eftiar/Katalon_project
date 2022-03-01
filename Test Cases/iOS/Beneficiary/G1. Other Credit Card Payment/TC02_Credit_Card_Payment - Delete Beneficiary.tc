@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Credit_Card_Payment - Delete Beneficiary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5615b1cb-d9bc-4d5c-9d3a-9233c1e07eaa</testCaseGuid>
+   <variable>
+      <defaultValue>'SANI'</defaultValue>
+      <description></description>
+      <id>50d348b3-f2ce-4da5-8644-37edc116bbc0</id>
+      <masked>false</masked>
+      <name>Nickname</name>
+   </variable>
+   <variable>
+      <defaultValue>'2182715499001'</defaultValue>
+      <description></description>
+      <id>ade07e81-eeba-47c2-b3e2-1ee607c5c0dc</id>
+      <masked>false</masked>
+      <name>AccNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'MD. SHAJAHAN ISLAM SANI'</defaultValue>
+      <description></description>
+      <id>fb6a1982-6175-492f-a207-bf8ed4d49cec</id>
+      <masked>false</masked>
+      <name>AccHolderName</name>
+   </variable>
+   <variable>
+      <defaultValue>'BDT'</defaultValue>
+      <description></description>
+      <id>d1a88376-e972-45b7-bf7b-88f969be294b</id>
+      <masked>false</masked>
+      <name>Currency_type</name>
+   </variable>
+   <variable>
+      <defaultValue>'SAVING BANK A/C'</defaultValue>
+      <description></description>
+      <id>4fd068d7-38c0-4323-a7d7-bcb7bbee3642</id>
+      <masked>false</masked>
+      <name>AccType</name>
+   </variable>
+   <variable>
+      <defaultValue>'01745677520'</defaultValue>
+      <description></description>
+      <id>9a5c2dd0-30b3-48c1-8b55-e23fbe176dbc</id>
+      <masked>false</masked>
+      <name>MobileNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'sani_jahan@bs-23.net'</defaultValue>
+      <description></description>
+      <id>7b812d07-d43c-4bf6-a4d0-24804c564297</id>
+      <masked>false</masked>
+      <name>EmailId</name>
+   </variable>
+</TestCaseEntity>

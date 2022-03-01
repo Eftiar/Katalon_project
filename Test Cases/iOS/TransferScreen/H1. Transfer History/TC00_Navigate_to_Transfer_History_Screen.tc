@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC00_Navigate_to_Transfer_History_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c5e09232-db4d-4ae9-b4c6-3de5dad76296</testCaseGuid>
+</TestCaseEntity>

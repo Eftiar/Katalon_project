@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Own Account fund transfer OTP Transfer Screen Functionality Check</description>
+   <name>TC02_ActiveDebitCard_OTP_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c737328c-265d-4c99-91dd-e9784a67af1d</testCaseGuid>
+   <variable>
+      <defaultValue>'IOS 2 User'</defaultValue>
+      <description></description>
+      <id>e0994c12-e645-4ef5-974a-75633c87a238</id>
+      <masked>false</masked>
+      <name>CardHolderName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Declared'</defaultValue>
+      <description></description>
+      <id>df82d87c-b261-4266-9e7c-7526c6af0610</id>
+      <masked>false</masked>
+      <name>CardStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>'Embossed'</defaultValue>
+      <description></description>
+      <id>674cb481-ba4a-47fc-8cc5-ff3c327d75d4</id>
+      <masked>false</masked>
+      <name>CardState</name>
+   </variable>
+   <variable>
+      <defaultValue>'AMEX'</defaultValue>
+      <description></description>
+      <id>c9a6c20f-1e21-4817-b244-160843bd1483</id>
+      <masked>false</masked>
+      <name>CardType</name>
+   </variable>
+</TestCaseEntity>

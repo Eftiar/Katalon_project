@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Other CC Payment nt OTP  Screen Functionality Check</description>
+   <name>TC02_OtherCreditCardPayment_OTP_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>83a0906b-31ad-4501-9898-d0f61e1d0ad3</testCaseGuid>
+   <variable>
+      <defaultValue>'MD ASADUL HAQUE'</defaultValue>
+      <description></description>
+      <id>a36687ec-a610-47d2-8035-9c347a6f6368</id>
+      <masked>false</masked>
+      <name>HolderName</name>
+   </variable>
+   <variable>
+      <defaultValue>'2182520387001'</defaultValue>
+      <description></description>
+      <id>c46122b6-d8e0-49ae-a19a-45e59cf8d031</id>
+      <masked>false</masked>
+      <name>PayFrom</name>
+   </variable>
+   <variable>
+      <defaultValue>'500.00'</defaultValue>
+      <description></description>
+      <id>0e0298bb-af4c-480a-901f-44eb25da8a90</id>
+      <masked>false</masked>
+      <name>PaymentAmount</name>
+   </variable>
+</TestCaseEntity>

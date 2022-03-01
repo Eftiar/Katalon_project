@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>bKash Transfer - Add Ben.</description>
+   <name>TC01_bKash Transfer - Add Beneficiary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>62592445-b589-4629-9fc2-2dbae3671b6f</testCaseGuid>
+   <variable>
+      <defaultValue>'Rajib - BS23'</defaultValue>
+      <description></description>
+      <id>7c862ede-ba60-4f43-bec5-2b232ee6f3e6</id>
+      <masked>false</masked>
+      <name>Nickname</name>
+   </variable>
+   <variable>
+      <defaultValue>'01679647916'</defaultValue>
+      <description></description>
+      <id>60bf1dd7-4408-405e-b9ff-ee29b127ae8c</id>
+      <masked>false</masked>
+      <name>AccNumber</name>
+   </variable>
+</TestCaseEntity>

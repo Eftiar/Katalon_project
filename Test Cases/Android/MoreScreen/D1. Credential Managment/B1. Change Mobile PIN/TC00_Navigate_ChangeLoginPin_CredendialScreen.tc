@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigates to the &quot;Activate Debit Card&quot;  From Account Service Screen</description>
+   <name>TC00_Navigate_ChangeLoginPin_CredendialScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6fb4c1b-1f42-470c-98bb-7a8e683cd008</testCaseGuid>
+</TestCaseEntity>

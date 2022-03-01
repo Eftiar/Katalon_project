@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_PayOrder</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ca6cc43-b76a-43c6-8520-e149717185e5</testCaseGuid>
+   <variable>
+      <defaultValue>'MD. MAZADUL ISLAM'</defaultValue>
+      <description></description>
+      <id>9971545d-82c6-448c-826d-edac0452202e</id>
+      <masked>false</masked>
+      <name>accountTitle</name>
+   </variable>
+</TestCaseEntity>

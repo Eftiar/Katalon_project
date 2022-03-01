@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Own Account fund transfer OTP Transfer Screen Functionality Check</description>
+   <name>TC02_OwnCreditCardPayment_OTP_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>902cc946-b245-40e3-8215-1088c50a0e72</testCaseGuid>
+   <variable>
+      <defaultValue>'MD GOLAM MOSTAFA'</defaultValue>
+      <description></description>
+      <id>1a05a29a-25fb-41e6-8d2e-a6a722f10a13</id>
+      <masked>false</masked>
+      <name>HolderName</name>
+   </variable>
+   <variable>
+      <defaultValue>'2182520387001'</defaultValue>
+      <description></description>
+      <id>0ba54570-6780-4196-8f31-611095f646cb</id>
+      <masked>false</masked>
+      <name>PayFrom</name>
+   </variable>
+   <variable>
+      <defaultValue>'500.00  BDT '</defaultValue>
+      <description></description>
+      <id>4a074a65-fc3f-4cce-b715-f735996e7424</id>
+      <masked>false</masked>
+      <name>PaymentAmount</name>
+   </variable>
+   <variable>
+      <defaultValue>'550.00 BDT'</defaultValue>
+      <description></description>
+      <id>e9247a3d-017f-47ce-8e34-20c35297e29a</id>
+      <masked>false</masked>
+      <name>GrandTotal</name>
+   </variable>
+   <variable>
+      <defaultValue>'qa'</defaultValue>
+      <description></description>
+      <id>c3377e19-dd78-423d-9258-5d521fdc052d</id>
+      <masked>false</masked>
+      <name>Narration</name>
+   </variable>
+</TestCaseEntity>

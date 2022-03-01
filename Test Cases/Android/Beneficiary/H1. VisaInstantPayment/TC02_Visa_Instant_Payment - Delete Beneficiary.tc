@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02_Visa_Instant_Payment - Delete Beneficiary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b0e04ab8-957a-41de-9d4d-edc526b2c193</testCaseGuid>
+   <variable>
+      <defaultValue>'SANI'</defaultValue>
+      <description></description>
+      <id>b833b473-cf14-46f5-828c-4bfbb4452c70</id>
+      <masked>false</masked>
+      <name>Nickname</name>
+   </variable>
+   <variable>
+      <defaultValue>'2182715499001'</defaultValue>
+      <description></description>
+      <id>7ececb0a-e073-4f5a-b4f8-e37699f060bd</id>
+      <masked>false</masked>
+      <name>AccNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'MD. SHAJAHAN ISLAM SANI'</defaultValue>
+      <description></description>
+      <id>ad8400ef-1bf8-41d7-8bf0-0de4bc2ce889</id>
+      <masked>false</masked>
+      <name>AccHolderName</name>
+   </variable>
+   <variable>
+      <defaultValue>'BDT'</defaultValue>
+      <description></description>
+      <id>a5763dd1-2b5d-4f80-ac93-760eb3d82925</id>
+      <masked>false</masked>
+      <name>Currency_type</name>
+   </variable>
+   <variable>
+      <defaultValue>'SAVING BANK A/C'</defaultValue>
+      <description></description>
+      <id>9a62ccb2-c3b3-42b0-8b8c-23f5100a4998</id>
+      <masked>false</masked>
+      <name>AccType</name>
+   </variable>
+   <variable>
+      <defaultValue>'01745677520'</defaultValue>
+      <description></description>
+      <id>a6af02c2-1955-4512-8053-e451ddac8fe7</id>
+      <masked>false</masked>
+      <name>MobileNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'sani_jahan@bs-23.net'</defaultValue>
+      <description></description>
+      <id>801ddd31-0347-4c5d-a886-1c4a0a3e18f7</id>
+      <masked>false</masked>
+      <name>EmailId</name>
+   </variable>
+</TestCaseEntity>

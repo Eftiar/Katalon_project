@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_FixedDeposit - General</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>35cc874a-bb68-44e6-8e3c-ff695faf9ce3</testCaseGuid>
+   <variable>
+      <defaultValue>'MD. MAZADUL ISLAM'</defaultValue>
+      <description></description>
+      <id>a5762ba7-1dd4-47d7-a8e0-77c1f02160a7</id>
+      <masked>false</masked>
+      <name>accountTitle</name>
+   </variable>
+</TestCaseEntity>

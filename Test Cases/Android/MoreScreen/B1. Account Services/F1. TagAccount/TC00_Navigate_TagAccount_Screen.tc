@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigates to the &quot;Tag Account in City&quot;  From Account Service Screen</description>
+   <name>TC00_Navigate_TagAccount_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b63a3976-33ce-4fb1-a61a-f0a217a3c346</testCaseGuid>
+</TestCaseEntity>

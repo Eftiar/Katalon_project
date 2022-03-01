@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Citytouch Common Screen</description>
+   <name>TC01_CityTouch Security Verification</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a170932d-22f9-4231-a0bc-0994b0a81d7e</testCaseGuid>
+   <variable>
+      <defaultValue>'1234'</defaultValue>
+      <description></description>
+      <id>c3914d7d-2c9f-40dd-82af-234212402cb0</id>
+      <masked>false</masked>
+      <name>PIN</name>
+   </variable>
+</TestCaseEntity>

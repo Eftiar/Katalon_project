@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_RequestSuccessScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>75c5219e-8241-4e83-afbf-1e05e43db1fa</testCaseGuid>
+   <variable>
+      <defaultValue>'Your pay order request has been received successfully. It will be ready for collection by next available working day from your desired branch.'</defaultValue>
+      <description></description>
+      <id>9dcc3b2e-89da-4aa1-acaa-5a1d1bf1161d</id>
+      <masked>false</masked>
+      <name>ExpectedMsg</name>
+   </variable>
+</TestCaseEntity>

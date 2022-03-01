@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to Beneficiary Add Screen from Trabsfer Screen</description>
+   <name>TC04_NavigateTo_AddBeneficiary_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c03597d2-c810-49b1-a51b-6eec20478d41</testCaseGuid>
+</TestCaseEntity>

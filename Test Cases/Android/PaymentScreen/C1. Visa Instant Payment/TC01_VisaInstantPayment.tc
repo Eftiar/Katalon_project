@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>VISA Instant Payment</description>
+   <name>TC01_VisaInstantPayment</name>
+   <tag>ft</tag>
+   <comment></comment>
+   <testCaseGuid>aed33922-4335-4d19-9e72-b0f09e7ab104</testCaseGuid>
+</TestCaseEntity>

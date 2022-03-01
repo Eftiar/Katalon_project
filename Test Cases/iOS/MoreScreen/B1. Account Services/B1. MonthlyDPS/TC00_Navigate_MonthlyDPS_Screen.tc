@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigates to the &quot;Monthly Services&quot;  From Account Service Screen</description>
+   <name>TC00_Navigate_MonthlyDPS_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>778b9814-37b3-4b20-9162-4e23653da986</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User login account with New PIN code</description>
+   <name>TC02_LoginWIthNewPIN</name>
+   <tag></tag>
+   <comment>User login app with PIN code
+Get Welcome Message after login successfull</comment>
+   <testCaseGuid>4cb06554-08d5-4356-a025-bc775066d0f9</testCaseGuid>
+</TestCaseEntity>

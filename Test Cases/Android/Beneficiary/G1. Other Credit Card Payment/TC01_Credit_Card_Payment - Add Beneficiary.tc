@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Credit_Card_Payment - Add Beneficiary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f29583c-1e8e-4b78-b743-5428968bba0c</testCaseGuid>
+   <variable>
+      <defaultValue>'Asad'</defaultValue>
+      <description></description>
+      <id>70c9f641-9a54-4632-ab21-4401a447130d</id>
+      <masked>false</masked>
+      <name>Nickname</name>
+   </variable>
+   <variable>
+      <defaultValue>'376948120725458'</defaultValue>
+      <description></description>
+      <id>ab26bd6c-da36-4531-b995-4913d6e8c2fd</id>
+      <masked>false</masked>
+      <name>AccNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'MD ASADUL HAQUE'</defaultValue>
+      <description></description>
+      <id>13d724f4-a338-41a3-9375-52e36aa89eff</id>
+      <masked>false</masked>
+      <name>AccHolderName</name>
+   </variable>
+   <variable>
+      <defaultValue>'primary'</defaultValue>
+      <description></description>
+      <id>6e72cb71-cc3c-4100-a015-9450739eb95b</id>
+      <masked>false</masked>
+      <name>CardType</name>
+   </variable>
+   <variable>
+      <defaultValue>'Open'</defaultValue>
+      <description></description>
+      <id>80a4b2bb-b9fd-43d4-b4e7-686cf20acb00</id>
+      <masked>false</masked>
+      <name>CardStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>'01745677520'</defaultValue>
+      <description></description>
+      <id>89d1032c-59f6-483c-b0bb-b501801d1e5c</id>
+      <masked>false</masked>
+      <name>MobileNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'borhan7420@gmail.com'</defaultValue>
+      <description></description>
+      <id>bf3069db-e86a-4a73-b3ac-a9b3ce5430fe</id>
+      <masked>false</masked>
+      <name>EmailId</name>
+   </variable>
+</TestCaseEntity>

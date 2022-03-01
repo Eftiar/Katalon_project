@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Own Account fund transfer OTP Transfer Screen Functionality Check</description>
+   <name>TC02_VisaInstantPayment_OTP_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>131f29e4-bdb7-47b6-adcf-7752cdc6b180</testCaseGuid>
+   <variable>
+      <defaultValue>'MD GOLAM MOSTAFA'</defaultValue>
+      <description></description>
+      <id>1bfbc674-dbd4-41bf-80e5-da4acdaef09f</id>
+      <masked>false</masked>
+      <name>HolderName</name>
+   </variable>
+   <variable>
+      <defaultValue>'2182520387001'</defaultValue>
+      <description></description>
+      <id>86787159-8ef2-4960-9973-f179edf7108d</id>
+      <masked>false</masked>
+      <name>PayFrom</name>
+   </variable>
+   <variable>
+      <defaultValue>'500.00  BDT '</defaultValue>
+      <description></description>
+      <id>3cd41fab-5e98-4074-b833-e50fae70c16c</id>
+      <masked>false</masked>
+      <name>PaymentAmount</name>
+   </variable>
+   <variable>
+      <defaultValue>'550.00 BDT'</defaultValue>
+      <description></description>
+      <id>07507441-7b6d-4c7f-b925-b30dd65d3c92</id>
+      <masked>false</masked>
+      <name>GrandTotal</name>
+   </variable>
+   <variable>
+      <defaultValue>'qa'</defaultValue>
+      <description></description>
+      <id>f2ffe71d-e983-43af-9339-a3d66a776c7d</id>
+      <masked>false</masked>
+      <name>Narration</name>
+   </variable>
+</TestCaseEntity>

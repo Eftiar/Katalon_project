@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Own Account Mobile Recharge OTP Transfer Screen Functionality Check</description>
+   <name>TC02_MobileRecharge_OTP_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7ff10ce0-49f1-47b0-baab-3ce2ce309390</testCaseGuid>
+   <variable>
+      <defaultValue>'2182603667001'</defaultValue>
+      <description></description>
+      <id>b55721e3-364f-4b38-b369-95dd49ad7ed0</id>
+      <masked>false</masked>
+      <name>toAccount</name>
+   </variable>
+   <variable>
+      <defaultValue>'Grameen Phone'</defaultValue>
+      <description></description>
+      <id>f419fe2d-efd2-4ea7-9214-4f229243705e</id>
+      <masked>false</masked>
+      <name>Operator</name>
+   </variable>
+   <variable>
+      <defaultValue>'8.00  BDT'</defaultValue>
+      <description></description>
+      <id>d07e2115-3cfe-4f82-87e8-781afd4e3e99</id>
+      <masked>false</masked>
+      <name>ServiceCharge</name>
+   </variable>
+   <variable>
+      <defaultValue>'1.20  BDT '</defaultValue>
+      <description></description>
+      <id>6ddf35a7-5666-4ff2-bfe2-cdfbac89421c</id>
+      <masked>false</masked>
+      <name>VatAmn</name>
+   </variable>
+</TestCaseEntity>

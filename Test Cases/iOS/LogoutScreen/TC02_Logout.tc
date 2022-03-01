@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tap logout button and check Yes button working:
+Step 1: User tap logout button
+Step 2: Check logout Popup Open in app 
+Step 3: User tap yes button on logout Popup
+Step 4: Check User successfully logout from app</description>
+   <name>TC02_Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a47ce083-4d91-467d-8978-43db8dee66c4</testCaseGuid>
+</TestCaseEntity>

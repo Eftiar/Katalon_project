@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_ActiveDebitCard</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecabb843-9e74-4232-9aef-016c20ff79f0</testCaseGuid>
+   <variable>
+      <defaultValue>'IOS 2 User'</defaultValue>
+      <description></description>
+      <id>9fb6ce0e-01da-45d6-9bc1-3a58cd2d53db</id>
+      <masked>false</masked>
+      <name>cardHolder</name>
+   </variable>
+   <variable>
+      <defaultValue>'Declared'</defaultValue>
+      <description></description>
+      <id>657f9ebd-b304-445c-8dc8-5ac40740d296</id>
+      <masked>false</masked>
+      <name>cardStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>'Embossed'</defaultValue>
+      <description></description>
+      <id>7b940da7-0c78-408d-b6fc-18c5766ca219</id>
+      <masked>false</masked>
+      <name>cardState</name>
+   </variable>
+   <variable>
+      <defaultValue>'AMEX'</defaultValue>
+      <description></description>
+      <id>999fb925-3273-4e90-9626-0f7f8a6f31e8</id>
+      <masked>false</masked>
+      <name>cardType</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_Insurance_Payment - Add Beneficiary(Nitol)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>402ff03e-cae5-4044-af68-795bab0ef5ef</testCaseGuid>
+   <variable>
+      <defaultValue>'Eftiar2'</defaultValue>
+      <description></description>
+      <id>fa5a897f-418e-4ea6-88f1-59af4e2d8d11</id>
+      <masked>false</masked>
+      <name>nickName</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check Details page show for Savings account</description>
+   <name>TC01_SavingAccount - General SB</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8ae07c78-ebf3-4fa6-8c2b-86bac3df508b</testCaseGuid>
+   <variable>
+      <defaultValue>'GENERAL SB A/C PAYROLL'</defaultValue>
+      <description></description>
+      <id>f3108ed3-48da-49f6-8051-96f19571de8e</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+   <variable>
+      <defaultValue>'28.49'</defaultValue>
+      <description></description>
+      <id>241affb4-58c9-424f-b16c-c69e3cc1663d</id>
+      <masked>false</masked>
+      <name>availableBalance</name>
+   </variable>
+   <variable>
+      <defaultValue>'Recent Transactions'</defaultValue>
+      <description></description>
+      <id>2342c25b-f55f-4a10-ba5b-98761f2216a6</id>
+      <masked>false</masked>
+      <name>title_</name>
+   </variable>
+</TestCaseEntity>

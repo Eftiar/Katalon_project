@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Own Account fund transfer OTP Transfer Screen Functionality Check</description>
+   <name>TC02_PositivePay_VerificationScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5bf4065a-0dcf-4118-9b60-c9afbf2253e2</testCaseGuid>
+   <variable>
+      <defaultValue>'2182520387001'</defaultValue>
+      <description></description>
+      <id>adf091e0-e840-4076-aa8f-2fceeb3c68f4</id>
+      <masked>false</masked>
+      <name>AccNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'MD. MAZADUL ISLAM'</defaultValue>
+      <description></description>
+      <id>52f69128-6364-4b5e-835a-f7b69366776c</id>
+      <masked>false</masked>
+      <name>AccTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'DPS High value'</defaultValue>
+      <description></description>
+      <id>66cef86d-496b-4312-914b-53279ed418b7</id>
+      <masked>false</masked>
+      <name>TypeOfAccount</name>
+   </variable>
+   <variable>
+      <defaultValue>'AMBARKHANA'</defaultValue>
+      <description></description>
+      <id>ee770d6d-9391-48fd-904e-56f9b996879d</id>
+      <masked>false</masked>
+      <name>Branch</name>
+   </variable>
+   <variable>
+      <defaultValue>'36'</defaultValue>
+      <description></description>
+      <id>0cf8d3ad-6303-4d01-adc7-dba187f3e916</id>
+      <masked>false</masked>
+      <name>Month</name>
+   </variable>
+   <variable>
+      <defaultValue>'6.00'</defaultValue>
+      <description></description>
+      <id>76483d5a-b471-4083-bbd1-6811e2f54b99</id>
+      <masked>false</masked>
+      <name>InterestRate</name>
+   </variable>
+</TestCaseEntity>

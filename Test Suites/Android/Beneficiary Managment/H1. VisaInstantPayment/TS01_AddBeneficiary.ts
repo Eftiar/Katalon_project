@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS01_AddBeneficiary</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>74a1e02c-1ccf-434c-a0e8-ab6dbabd1a8b</testSuiteGuid>
+   <testCaseLink>
+      <guid>2fd8771a-1892-4476-9605-c46599b81a31</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/LoginScreen/TC02_LoginWIthPIN</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>4c64cf79-1c16-4a5c-b122-c5131280a612</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/PaymentScreen/TC01_Navigate_Payment_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d02a068e-3e8c-4c7c-86b8-4a3c79724c73</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/Beneficiary/TC06_NavigateTo_PaymentBenificiery_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6de49cff-6c52-465e-8623-b5eabd50e3cd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/Beneficiary/TC04_NavigateTo_AddBeneficiary_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3ba0efa1-cf24-4dab-a0d9-8901a4f90172</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/Beneficiary/H1. VisaInstantPayment/TC01_Visa_Instant_Payment - Add Beneficiary</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>0bb291f7-d106-417d-b6b5-0aca5464a45a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ead4dbf4-a966-4ee0-95e2-1d3a058b9e75</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8d5d42b9-cd6f-4f43-a242-4ca2ef946c2c</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4359c6c7-6d79-499c-983e-7092edf5b164</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6fc1ac18-e5a7-404a-bb22-ba42d95d3f36</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>d12f8cf3-93b8-4f62-9acf-d4300e4983b7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/Beneficiary/TC01_CityTouch Security Verification</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>852178df-4526-47d7-b2c0-7108b81935b2</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

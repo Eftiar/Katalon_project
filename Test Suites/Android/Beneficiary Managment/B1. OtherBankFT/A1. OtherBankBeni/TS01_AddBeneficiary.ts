@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS01_AddBeneficiary</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>dd5b434f-eda9-4aae-bfab-255b55ea5c91</testSuiteGuid>
+   <testCaseLink>
+      <guid>8702830d-dcbd-4943-8831-f9ef4c31033c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/LoginScreen/TC02_LoginWIthPIN</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>880936c1-d612-4c4b-8e26-541468bc4966</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Android/LoginScreen/TC04_LoginWithUsername_Password</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>59a85bec-74ae-4377-bf51-f7afac90e0fd</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/TransferScreen/TC01_Navigate_Transfer_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>116190ab-d69f-4ae9-b453-468792390eac</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/Beneficiary/TC03_NavigateTo_Beneficiary_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>cf556875-a015-434b-a109-5c71016cba8c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/Beneficiary/TC04_NavigateTo_AddBeneficiary_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>ec2caf30-54a4-4b4b-82b6-42b3cd9f7f03</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/Beneficiary/C1. Other Bank Account Transfer/TC01_Other Bank Transfer - Add Beneficiary</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>259cd83c-768f-4464-a451-c7a672ba137b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>fff98f1f-7c15-441e-9181-af1450199da8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>91946759-e0ed-420f-acc9-dd2d5dcf2d65</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7009fcbf-1467-4211-8633-d0813a2570b0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>81b43860-26d6-435c-8f49-8bd11b7b88e4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>583ddacd-8a04-4f9c-aae3-00ef38ac2627</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2ba20221-17cf-4da2-9390-c8311bc74f1a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1a88cf47-8c1f-417b-84eb-5433670c40ba</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/Beneficiary/TC01_CityTouch Security Verification</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>852178df-4526-47d7-b2c0-7108b81935b2</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

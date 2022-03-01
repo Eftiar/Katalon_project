@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigates to the &quot;Account Services&quot;  From More Screen</description>
+   <name>TC01_Navigate_Account_Services_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc558a55-6633-4c20-8d00-9071b43f7207</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Rate US Function Working</description>
+   <name>TC01_RateCityTouch</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6fc4bd6-a21e-4cff-b2b9-854be310bcdd</testCaseGuid>
+</TestCaseEntity>

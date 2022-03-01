@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigates to the &quot;Pay Order&quot;  From Account Service Screen</description>
+   <name>TC00_Navigate_PayOrder_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f6150180-b330-4fc9-9276-05db94d755fc</testCaseGuid>
+</TestCaseEntity>

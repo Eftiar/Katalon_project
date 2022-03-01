@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Product Query Check</description>
+   <name>TC01_ProductQuery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>29c96e93-6a72-4cf4-94a5-cbb7bf1a6de7</testCaseGuid>
+   <variable>
+      <defaultValue>'Borhan Uddin Sarker'</defaultValue>
+      <description></description>
+      <id>b417d60d-775c-49df-8a6d-96656873c444</id>
+      <masked>false</masked>
+      <name>FullName</name>
+   </variable>
+   <variable>
+      <defaultValue>'463/8 Greenway Moghbazar, Dhaka-1218'</defaultValue>
+      <description></description>
+      <id>9b6ea1ac-1d90-440b-a73b-847669f815fb</id>
+      <masked>false</masked>
+      <name>contactAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>'borhan7420@gmail.com'</defaultValue>
+      <description></description>
+      <id>4fe2bb2a-4834-4310-8804-e25770f3c8f3</id>
+      <masked>false</masked>
+      <name>emailAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>'01745677420'</defaultValue>
+      <description></description>
+      <id>21bc43f8-181f-4ace-855c-c0945153f865</id>
+      <masked>false</masked>
+      <name>mobileNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'QA Test'</defaultValue>
+      <description></description>
+      <id>36c292c7-cbbe-4bb2-8f10-526cf83fea23</id>
+      <masked>false</masked>
+      <name>remarks</name>
+   </variable>
+</TestCaseEntity>

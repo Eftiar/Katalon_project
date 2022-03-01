@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_ChangeLoginPIN_2ndTime</name>
+   <tag></tag>
+   <comment>User Input OLP PIN
+User Input New PIN
+User Input Retype PIN</comment>
+   <testCaseGuid>293596d4-b55b-4a8c-94a6-94e18d2aef26</testCaseGuid>
+</TestCaseEntity>

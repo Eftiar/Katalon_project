@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify Credit Card Details Transaction Loading</description>
+   <name>TC02_CreditCard - AMEX</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7e1ce849-3554-4ab0-9f03-d11d29b087f4</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>60220010-6250-4bd5-a553-f27a53e3e98f</id>
+      <masked>false</masked>
+      <name>cardNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'130000'</defaultValue>
+      <description></description>
+      <id>b8faeb67-da61-4a3e-9933-8db2ce31a7bc</id>
+      <masked>false</masked>
+      <name>totalCreditLine</name>
+   </variable>
+   <variable>
+      <defaultValue>'159102.46'</defaultValue>
+      <description></description>
+      <id>650f71c5-775d-4d64-a29b-c331bcad3da5</id>
+      <masked>false</masked>
+      <name>creditAvailable</name>
+   </variable>
+   <variable>
+      <defaultValue>'-29102.46'</defaultValue>
+      <description></description>
+      <id>d18daae0-2295-4c57-bd7f-1f4b2ad12926</id>
+      <masked>false</masked>
+      <name>outstandingBalance</name>
+   </variable>
+   <variable>
+      <defaultValue>'8770'</defaultValue>
+      <description></description>
+      <id>07c7c33e-8607-42ec-9c0e-d07e97b21949</id>
+      <masked>false</masked>
+      <name>rewardPoints</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User transfer in his own account</description>
+   <name>TC01_OwnAccountTransfer</name>
+   <tag>ft</tag>
+   <comment></comment>
+   <testCaseGuid>d1dd6d6e-666b-4c28-96f3-2654a2fc32ee</testCaseGuid>
+</TestCaseEntity>

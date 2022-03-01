@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Own Account fund transfer OTP Transfer Screen Functionality Check</description>
+   <name>TC02_OtherBankAccFundTransfer_OTP_Screen(RTGS)</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f5a3b395-f82c-47f3-b77d-7dad540600bd</testCaseGuid>
+   <variable>
+      <defaultValue>'24134154101'</defaultValue>
+      <description></description>
+      <id>10aafcc3-a5ee-4767-a884-0ee7e32f38bb</id>
+      <masked>false</masked>
+      <name>toAccount</name>
+   </variable>
+</TestCaseEntity>

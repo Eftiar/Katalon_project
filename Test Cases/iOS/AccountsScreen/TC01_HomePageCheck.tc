@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_HomePageCheck</name>
+   <tag></tag>
+   <comment>User check Saving Account
+User check Credit Card 1
+User check Credit Card 2</comment>
+   <testCaseGuid>676471b2-afc4-4a99-ae31-5c887deb2805</testCaseGuid>
+</TestCaseEntity>

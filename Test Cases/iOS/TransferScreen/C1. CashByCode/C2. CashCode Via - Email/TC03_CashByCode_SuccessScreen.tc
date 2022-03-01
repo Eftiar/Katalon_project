@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>After Transfer Fund Check Success Screen And Validation Element</description>
+   <name>TC03_CashByCode_SuccessScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c62f24ce-eced-497c-a730-e1d3c83c112a</testCaseGuid>
+   <variable>
+      <defaultValue>'Your Cash by code has been sent to you email address'</defaultValue>
+      <description></description>
+      <id>c24d907e-5b57-49f9-9b43-818462579b54</id>
+      <masked>false</masked>
+      <name>EXmsg</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Check Account Details After Other Credit Card Payment</description>
+   <name>TC04_CheckAccountDetailsAdjustment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e4b6c7d9-fb18-4a4e-8935-0f2b7ea8d48a</testCaseGuid>
+</TestCaseEntity>

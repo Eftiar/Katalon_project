@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_CreditCardPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6ff6ae0-1e75-4f82-bce9-c501bc0d2386</testCaseGuid>
+</TestCaseEntity>

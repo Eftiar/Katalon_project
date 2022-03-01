@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS02_DeleteBeneficiary</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <testSuiteGuid>f69dd2d6-14aa-40b2-b6c6-b0df903722ef</testSuiteGuid>
+   <testCaseLink>
+      <guid>258e10ef-8475-4c6d-8b65-378a1124346d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/LoginScreen/TC02_LoginWIthPIN</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>1eeafc2d-fcf1-43d8-ab80-0d89a3ca1ad4</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/PaymentScreen/TC01_Navigate_Payment_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>f669cc51-9fad-41d5-8ed9-369c7619f50d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/Beneficiary/TC06_NavigateTo_PaymentBenificiery_Screen</testCaseId>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>3e5768c9-047f-4a21-a009-2ca6e666d1c5</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Android/Beneficiary/G1. Other Credit Card Payment/TC02_Credit_Card_Payment - Delete Beneficiary</testCaseId>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1a37593d-facb-4e3f-af0a-e851f78f28fd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>2526690f-51fc-498d-946c-04275683703a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3cfa9ee6-fbcd-45c2-be9c-873728edef0b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4b3801f6-9140-4f4b-a4a3-4a513c9c8a03</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>46c2ba6f-18fd-4f6d-abcb-119564aedf7f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>4c7d5262-d134-4fff-b4d4-8ef1c510db75</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>15e2260d-af44-4277-a087-026d8393c0bb</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

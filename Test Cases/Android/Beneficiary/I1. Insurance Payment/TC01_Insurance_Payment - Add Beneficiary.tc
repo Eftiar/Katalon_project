@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Insurance_Payment - Add Beneficiary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2a01e14b-7b55-4874-990d-0c25ef4b0e90</testCaseGuid>
+   <variable>
+      <defaultValue>'Eftiar'</defaultValue>
+      <description></description>
+      <id>b7657fa3-70be-4b68-9ea4-5951e2499d8f</id>
+      <masked>false</masked>
+      <name>nickName</name>
+   </variable>
+   <variable>
+      <defaultValue>'46792201655'</defaultValue>
+      <description></description>
+      <id>7758901c-7624-45cf-8359-d4e4d2d96952</id>
+      <masked>false</masked>
+      <name>policyNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'S M Eftiar Hossain'</defaultValue>
+      <description></description>
+      <id>81ff43b7-8fe1-419c-9845-6d0aaa581f15</id>
+      <masked>false</masked>
+      <name>policyholderName</name>
+   </variable>
+</TestCaseEntity>

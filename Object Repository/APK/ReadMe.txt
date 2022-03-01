@@ -1,0 +1,1 @@
+appWaitActivity: com.thecitybank.citytouch.ui.activity.SplashScreenActivity,com.thecitybank.citytouch.ui.activity.authenticaton.LoginActivity

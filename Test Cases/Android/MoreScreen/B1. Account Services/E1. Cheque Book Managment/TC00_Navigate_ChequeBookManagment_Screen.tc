@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigates to the &quot;Positive Pay&quot;  From Account Service Screen</description>
+   <name>TC00_Navigate_ChequeBookManagment_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8fdcbf2-89e2-4618-8444-bede2990bd91</testCaseGuid>
+</TestCaseEntity>

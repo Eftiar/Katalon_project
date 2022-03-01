@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_InternetBillPayment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c064a0c9-1ee5-4493-a1cd-1bf8f343e992</testCaseGuid>
+</TestCaseEntity>

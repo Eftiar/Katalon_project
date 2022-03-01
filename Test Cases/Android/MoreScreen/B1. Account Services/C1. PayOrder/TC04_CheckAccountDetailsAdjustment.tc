@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>After Transfer fund check all account details adjustment</description>
+   <name>TC04_CheckAccountDetailsAdjustment</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>99e0a635-5cab-4d7b-97e6-92e045a35a81</testCaseGuid>
+   <variable>
+      <defaultValue>'100.00'</defaultValue>
+      <description></description>
+      <id>f27501b2-5d75-4743-9aee-37aa86015ae0</id>
+      <masked>false</masked>
+      <name>ServiceCharge</name>
+   </variable>
+   <variable>
+      <defaultValue>'15.00'</defaultValue>
+      <description></description>
+      <id>dd9eef81-7053-463e-b2b2-c6c066a00228</id>
+      <masked>false</masked>
+      <name>Vat</name>
+   </variable>
+</TestCaseEntity>

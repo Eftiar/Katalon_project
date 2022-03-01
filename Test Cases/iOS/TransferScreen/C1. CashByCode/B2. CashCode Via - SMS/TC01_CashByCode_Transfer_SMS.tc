@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Transfer Amount With CODE</description>
+   <name>TC01_CashByCode_Transfer_SMS</name>
+   <tag>FT</tag>
+   <comment></comment>
+   <testCaseGuid>4c8303c1-7240-4ac6-80fb-300b7ee500f1</testCaseGuid>
+   <variable>
+      <defaultValue>'01745677420'</defaultValue>
+      <description></description>
+      <id>a7283c64-c34e-467a-945f-8e3216fed3fb</id>
+      <masked>false</masked>
+      <name>BeneficiaryNumber</name>
+   </variable>
+</TestCaseEntity>

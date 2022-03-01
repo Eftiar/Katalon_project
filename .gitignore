@@ -1,0 +1,13 @@
+/bin/
+/.settings/
+/.classpath/
+.svn/
+*.DS_Store
+Libs/TempTestCase*.groovy
+Libs/TempTestSuite*.groovy
+/Libs/
+bin/lib/TempTestCase*
+bin/lib/TempTestSuite*
+Reports/
+/appium.log/
+/Data Files/File.xlsx

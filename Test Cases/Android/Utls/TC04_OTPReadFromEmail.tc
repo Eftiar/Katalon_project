@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Read OTP From Email</description>
+   <name>TC04_OTPReadFromEmail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d46448db-0aac-4f96-b92f-a860fde5a722</testCaseGuid>
+</TestCaseEntity>

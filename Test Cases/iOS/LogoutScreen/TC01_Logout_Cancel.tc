@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User tap logout button and check No button working
+Step 1: User tap logout button
+Step 2: Check logout Popup Open in app 
+Step 3: User tap no button on logout Popup
+Step 4: Check logout Popup disappear</description>
+   <name>TC01_Logout_Cancel</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7c3f37b2-50da-4c5e-8681-c79df9704b1d</testCaseGuid>
+</TestCaseEntity>

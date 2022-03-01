@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_TagAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>aaaa66b2-b083-4bea-a8b9-c01c55e246fc</testCaseGuid>
+   <variable>
+      <defaultValue>'2182603667001'</defaultValue>
+      <description></description>
+      <id>63b7db3a-8330-4694-8629-ae37989c0c7e</id>
+      <masked>false</masked>
+      <name>AccNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'MD. BORHAN UDDIN SARKER'</defaultValue>
+      <description></description>
+      <id>33a9d00b-e350-405b-9cff-976a9be53b48</id>
+      <masked>false</masked>
+      <name>AccName</name>
+   </variable>
+   <variable>
+      <defaultValue>'01745677420'</defaultValue>
+      <description></description>
+      <id>f6fb4724-2974-42fb-a840-d522eb9f0687</id>
+      <masked>false</masked>
+      <name>OTP_Mobile</name>
+   </variable>
+</TestCaseEntity>

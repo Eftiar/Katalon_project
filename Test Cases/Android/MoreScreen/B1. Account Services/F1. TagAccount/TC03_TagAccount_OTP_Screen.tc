@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_TagAccount_OTP_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>934b6750-8361-4fe2-aaf7-01d515fbab80</testCaseGuid>
+   <variable>
+      <defaultValue>'Your positive pay request for the cheque number  has been submitted successfully. An email has been send to your register email address.'</defaultValue>
+      <description></description>
+      <id>e717b397-af92-4b53-af5a-8a354a5085df</id>
+      <masked>false</masked>
+      <name>ExpectedMsg</name>
+   </variable>
+</TestCaseEntity>

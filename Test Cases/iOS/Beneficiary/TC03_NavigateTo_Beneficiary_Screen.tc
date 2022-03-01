@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate to beneficiary screen from footer Menu</description>
+   <name>TC03_NavigateTo_Beneficiary_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>04aa5e9e-e91b-416a-bebb-1a2c08e49246</testCaseGuid>
+</TestCaseEntity>

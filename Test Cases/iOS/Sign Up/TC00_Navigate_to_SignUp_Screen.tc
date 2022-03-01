@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC00_Navigate_to_SignUp_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b1f11a01-59aa-4cb9-a15c-f1d3e037401f</testCaseGuid>
+</TestCaseEntity>

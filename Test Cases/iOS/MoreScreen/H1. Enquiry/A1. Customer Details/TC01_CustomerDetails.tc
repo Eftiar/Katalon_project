@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify All Customer Details Screen</description>
+   <name>TC01_CustomerDetails</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af71f704-8cab-4adf-acd3-d52c0f57ed06</testCaseGuid>
+</TestCaseEntity>

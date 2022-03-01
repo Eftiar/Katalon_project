@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Store User All Account Info on Excel Data Sheet</description>
+   <name>TC02_AccountDetailsStore</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b947e1fc-218e-4238-910e-a446239ebbf8</testCaseGuid>
+</TestCaseEntity>

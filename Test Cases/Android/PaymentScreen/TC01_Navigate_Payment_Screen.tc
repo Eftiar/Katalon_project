@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigates to the &quot;Payment&quot; screen.</description>
+   <name>TC01_Navigate_Payment_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>726b2539-43a2-4273-92c0-203b7ce4d3ba</testCaseGuid>
+</TestCaseEntity>

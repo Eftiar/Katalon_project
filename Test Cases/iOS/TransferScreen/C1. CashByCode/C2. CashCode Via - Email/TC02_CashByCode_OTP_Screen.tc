@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Own Account fund transfer OTP Transfer Screen Functionality Check</description>
+   <name>TC02_CashByCode_OTP_Screen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>94d417d4-1410-43aa-b27a-04495facdd70</testCaseGuid>
+   <variable>
+      <defaultValue>'24134154101'</defaultValue>
+      <description></description>
+      <id>24dcdd83-2c8b-4c33-adba-b778d94ce933</id>
+      <masked>false</masked>
+      <name>toAccount</name>
+   </variable>
+</TestCaseEntity>

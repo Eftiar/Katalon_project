@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Updating beneficiay for other bank account by selecting Nickname.</description>
+   <name>TC02_UpdateBeneficiary_OtherBank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4166bd5c-4106-4e19-8e70-cb830d240993</testCaseGuid>
+   <variable>
+      <defaultValue>'BBL CC Payment'</defaultValue>
+      <description></description>
+      <id>583679ab-822f-425e-8edc-ce748b200cb2</id>
+      <masked>false</masked>
+      <name>Nickname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Account'</defaultValue>
+      <description></description>
+      <id>78e20707-63af-456b-8d27-79174ae344e8</id>
+      <masked>false</masked>
+      <name>AccountType</name>
+   </variable>
+   <variable>
+      <defaultValue>'11109287000010'</defaultValue>
+      <description></description>
+      <id>7bc5cf7d-8ea4-4ed9-b13c-c1b15411777f</id>
+      <masked>false</masked>
+      <name>AccountCardNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'Bichitra Kumar'</defaultValue>
+      <description></description>
+      <id>6097ebab-5311-402f-96f7-2ff2d0e3c0a7</id>
+      <masked>false</masked>
+      <name>AccountCardName</name>
+   </variable>
+   <variable>
+      <defaultValue>'BRAC BANK LTD.'</defaultValue>
+      <description></description>
+      <id>9376a34c-88e1-4e59-9256-ea7a27b9e9e5</id>
+      <masked>false</masked>
+      <name>BankName</name>
+   </variable>
+   <variable>
+      <defaultValue>'DHAKA-SOUTH'</defaultValue>
+      <description></description>
+      <id>ad74528e-56ff-4997-9ef2-54583060e042</id>
+      <masked>false</masked>
+      <name>DistrictName</name>
+   </variable>
+   <variable>
+      <defaultValue>'HEAD OFFICE'</defaultValue>
+      <description></description>
+      <id>b1484f5d-2088-4e59-a215-b6f1657572d4</id>
+      <masked>false</masked>
+      <name>BranchName</name>
+   </variable>
+   <variable>
+      <defaultValue>'01730076947'</defaultValue>
+      <description></description>
+      <id>f2ce915a-74d5-4193-906d-d28cf84b6dde</id>
+      <masked>false</masked>
+      <name>BeneficiaryMobileNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'bichitra.kumar@thecitybank.com'</defaultValue>
+      <description></description>
+      <id>2d15b139-3e06-481c-b15e-4f0bc10f81d2</id>
+      <masked>false</masked>
+      <name>BeneficiaryEmailAddress</name>
+   </variable>
+</TestCaseEntity>

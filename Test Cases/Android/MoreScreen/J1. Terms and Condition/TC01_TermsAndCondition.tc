@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Terms and Condition Verify</description>
+   <name>TC01_TermsAndCondition</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b7a447df-59da-4cd3-874f-a74b7e464132</testCaseGuid>
+</TestCaseEntity>

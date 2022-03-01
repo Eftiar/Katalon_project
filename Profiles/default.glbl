@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/Object Repository/APK/CityTouch-UAT_V1.4.apk'</initValue>
+      <name>appPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/Object Repository/iOS/app/CityTouch_V_4.2.8.ipa'</initValue>
+      <name>ipaPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'com.thecitybank.citytouch.uat'</initValue>
+      <name>CityTouchAppID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>iOS Application Identifier</description>
+      <initValue>'com.thecitybank.citytouch.test'</initValue>
+      <name>CityTouchiOSID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'com.oneplus.mms'</initValue>
+      <name>MessageAppID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>True : Email OTP Enable</description>
+      <initValue>false</initValue>
+      <name>OTP_Option_Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('CityBankAccount/OwnAccount/OTP OPTION - Email')</initValue>
+      <name>OTP_Type_Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('CityBankAccount/OwnAccount/OTP OPTION - SMS')</initValue>
+      <name>OTP_Type_SMS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ios 2 user'</initValue>
+      <name>AccName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'borhan1'</initValue>
+      <name>Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'000111Bb'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1165.00'</initValue>
+      <name>PO_GrandAmount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>520</initValue>
+      <name>position_X</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1240</initValue>
+      <name>position_Y</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>310</initValue>
+      <name>bKashPosition_X</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1367</initValue>
+      <name>bKashPosition_Y</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

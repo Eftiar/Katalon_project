@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_Visa_Instant_Payment - Add Beneficiary</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>96fa7038-e6af-44b5-91c9-10fef1bdfb09</testCaseGuid>
+   <variable>
+      <defaultValue>'Eftiar'</defaultValue>
+      <description></description>
+      <id>5bb813eb-ab55-426b-aa99-ac3512383510</id>
+      <masked>false</masked>
+      <name>nickName</name>
+   </variable>
+   <variable>
+      <defaultValue>'4679220165563558'</defaultValue>
+      <description></description>
+      <id>0cbe424c-9486-4885-b9f1-ae88d950fe04</id>
+      <masked>false</masked>
+      <name>visaCardNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'S M Eftiar Hossain'</defaultValue>
+      <description></description>
+      <id>2a2282f6-59aa-4890-9650-bdd47de45133</id>
+      <masked>false</masked>
+      <name>recipientName</name>
+   </variable>
+   <variable>
+      <defaultValue>'01858541331'</defaultValue>
+      <description></description>
+      <id>2300d033-3592-472c-a89b-92078aa3f385</id>
+      <masked>false</masked>
+      <name>mobileNumber</name>
+   </variable>
+   <variable>
+      <defaultValue>'eftiar.hossain@bs-23.net'</defaultValue>
+      <description></description>
+      <id>40d19b57-12d0-4d2d-8b81-0af20f6bc94f</id>
+      <masked>false</masked>
+      <name>emailAddress</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Navigate To Customer Details Screen</description>
+   <name>TC00_NavigateToProductQuery</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb2d8ae9-2bd8-4f6d-b344-96bd48028fe9</testCaseGuid>
+</TestCaseEntity>

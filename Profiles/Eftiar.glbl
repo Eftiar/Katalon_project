@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>Eftiar</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'/Object Repository/APK/CityTouch-UAT_V1.4.apk'</initValue>
+      <name>appPath</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'com.thecitybank.citytouch.uat'</initValue>
+      <name>CityTouchAppID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'com.android.mms'</initValue>
+      <name>MessageAppID</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>True : Email OTP Enable</description>
+      <initValue>false</initValue>
+      <name>OTP_Option_Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('CityBankAccount/OwnAccount/OTP OPTION - Email')</initValue>
+      <name>OTP_Type_Email</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('CityBankAccount/OwnAccount/OTP OPTION - SMS')</initValue>
+      <name>OTP_Type_SMS</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'S M EFTIAR HOSSAIN'</initValue>
+      <name>AccName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'borhan1'</initValue>
+      <name>Username</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'123456Ss'</initValue>
+      <name>Password</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'1165.00'</initValue>
+      <name>PO_GrandAmount</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>520</initValue>
+      <name>position_X</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1240</initValue>
+      <name>position_Y</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>bKash Benificiary Position</description>
+      <initValue>310</initValue>
+      <name>bKashPosition_X</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>bKash Benificiary Position</description>
+      <initValue>1367</initValue>
+      <name>bKashPosition_Y</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Visa Instant Payment Benificiary Position</description>
+      <initValue>360</initValue>
+      <name>VisaInstantPayment_X</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Visa Instant Payment Benificiary Position</description>
+      <initValue>1530</initValue>
+      <name>VisaInstantPayment_Y</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Nitol Payment Benificiary Position</description>
+      <initValue>350</initValue>
+      <name>NitolInsurancePayment_X</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Nitol Payment Benificiary Position</description>
+      <initValue>1290</initValue>
+      <name>NitolInsurancePayment_Y</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User Select other bank beneficiary position X</description>
+      <initValue>310</initValue>
+      <name>OtherBankNickname_X</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User Select other bank beneficiary position Y</description>
+      <initValue>1250</initValue>
+      <name>OtherBankNickname_Y</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User Select Cash By Code Account </description>
+      <initValue>520</initValue>
+      <name>CashByCodeAccount_X</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>User Select Cash By Code Account </description>
+      <initValue>1280</initValue>
+      <name>CashByCodeAccount_Y</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Email Transfer account selection</description>
+      <initValue>520</initValue>
+      <name>EmailTransferAccount_X</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Email Transfer Account Selection</description>
+      <initValue>1240</initValue>
+      <name>EmailTransferAccount_Y</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

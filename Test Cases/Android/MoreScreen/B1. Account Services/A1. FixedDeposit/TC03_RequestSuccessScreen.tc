@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC03_RequestSuccessScreen</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b592f6c5-be4f-4c88-809e-d10c204509da</testCaseGuid>
+   <variable>
+      <defaultValue>'We received your request to open a FDR account. Confirmation will be sent to your registered email address within next working day. Call 16234'</defaultValue>
+      <description></description>
+      <id>13384b1c-d180-4d01-86c3-da59cd7e11f4</id>
+      <masked>false</masked>
+      <name>ExpectedMsg</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,20 @@
+<<<<<<< Upstream, based on branch 'master' of http://172.16.229.231:8084/moshiurpiash/Citytouch_Automation_Testing.git
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User login account with PIN code</description>
+   <name>TC02_LoginWIthPIN</name>
+   <tag></tag>
+   <comment>User login app with PIN code
+Get Welcome Message after login successfull</comment>
+   <testCaseGuid>c4def86c-8cce-4fd2-9f9b-ed9190c08482</testCaseGuid>
+</TestCaseEntity>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User login account with PIN code</description>
+   <name>TC02_LoginWIthPIN</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c4def86c-8cce-4fd2-9f9b-ed9190c08482</testCaseGuid>
+</TestCaseEntity>
+>>>>>>> 5fa4c80 Project Setup for iOS

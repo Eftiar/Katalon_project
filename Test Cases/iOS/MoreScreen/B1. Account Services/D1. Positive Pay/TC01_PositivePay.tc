@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC01_PositivePay</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>af52ac57-83b1-41d8-8d15-931971281c37</testCaseGuid>
+   <variable>
+      <defaultValue>'MD. MAZADUL ISLAM'</defaultValue>
+      <description></description>
+      <id>cdbcce7c-b75d-479a-a1b9-233e4b07e548</id>
+      <masked>false</masked>
+      <name>beneficiaryName</name>
+   </variable>
+</TestCaseEntity>
